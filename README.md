@@ -18,4 +18,9 @@ Add login.php to your server that supports PHP, use 000webhost.com for free webs
 Change URL on public String sUrl on MainActivity.java file
 
 # Preview
+
+Server1
+![Capture](https://user-images.githubusercontent.com/75931958/120962439-5a9cd880-c77d-11eb-987c-1672565363df.PNG)
+
+Server2
 ![Capture](https://user-images.githubusercontent.com/75931958/120961873-41dff300-c77c-11eb-96fa-4e4a29ffc772.PNG)
