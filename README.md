@@ -16,3 +16,6 @@ Tutorial:-
 Add login.php to your server that supports PHP, use 000webhost.com for free webserver. Repo based hosting such as Github does not support PHP
 
 Change URL on public String sUrl on MainActivity.java file
+
+# Preview
+![Capture](https://user-images.githubusercontent.com/75931958/120961873-41dff300-c77c-11eb-96fa-4e4a29ffc772.PNG)
