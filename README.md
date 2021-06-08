@@ -20,7 +20,7 @@ Change URL on public String sUrl on MainActivity.java file
 # Preview
 
 Server1
-
+![Capture](https://user-images.githubusercontent.com/75931958/121114080-bc6a4a80-c830-11eb-99f5-bd0d50647b5e.PNG)
 
 Server2
 ![Capture](https://user-images.githubusercontent.com/75931958/120961873-41dff300-c77c-11eb-96fa-4e4a29ffc772.PNG)
